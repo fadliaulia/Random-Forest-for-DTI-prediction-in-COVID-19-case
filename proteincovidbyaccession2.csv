@@ -1,0 +1,114 @@
+Entry,Reviewed,Entry Name,Protein Names,Gene Names,Organism,Source
+Q9NYK1,reviewed,TLR7_HUMAN,Toll-like receptor 7,TLR7 UNQ248/PRO285,Homo sapiens (Human),OMIM-covid19
+Q8IZJ0,reviewed,IFNL2_HUMAN,Interferon lambda-2 ,IFNL2 IL28A ZCYTO20,Homo sapiens (Human),OMIM-covid19
+Q8IZI9,reviewed,IFNL3_HUMAN,Interferon lambda-3,IFNL3 IL28B IL28C ZCYTO22,Homo sapiens (Human),OMIM-covid19
+Q8IU54,reviewed,IFNL1_HUMAN,Interferon lambda-1 ,IFNL1 IL29 ZCYTO21,Homo sapiens (Human),OMIM-covid19
+Q8IU57,reviewed,INLR1_HUMAN,Interferon lambda receptor 1,IFNLR1 IL28RA LICR2,Homo sapiens (Human),OMIM-covid19
+P23458,reviewed,JAK1_HUMAN,Tyrosine-protein kinase JAK1,JAK1 JAK1A JAK1B,Homo sapiens (Human),OMIM-covid19
+Q695T7,reviewed,S6A19_HUMAN,Sodium-dependent neutral amino acid transporter B(0)AT1 ,SLC6A19 B0AT1,Homo sapiens (Human),OMIM-sarscov2
+O15393,reviewed,TMPS2_HUMAN,Transmembrane protease serine 2,TMPRSS2 PRSS10,Homo sapiens (Human),Uniprot
+O43765,reviewed,SGTA_HUMAN,"Small glutamine-rich tetratricopeptide repeat-containing protein alpha (Alpha-SGT) (Vpu-binding protein, UBP)",SGTA SGT SGT1,Homo sapiens (Human),Uniprot
+P05231,reviewed,IL6_HUMAN,Interleukin-6,IL6 IFNB2,Homo sapiens (Human),Uniprot
+P07711,reviewed,CATL1_HUMAN,"Procathepsin L, EC 3.4.22.15 (Cathepsin L1) (Major excreted protein, MEP) [Cleaved into: Cathepsin L; Cathepsin L heavy chain; Cathepsin L light chain ]",CTSL CTSL1,Homo sapiens (Human),Uniprot
+P08887,reviewed,IL6RA_HUMAN,"Interleukin-6 receptor subunit alpha, IL-6 receptor subunit alpha, IL-6R subunit alpha, IL-6R-alpha, IL-6RA (IL-6R 1) (Membrane glycoprotein 80, gp80) (CD antigen CD126) [Cleaved into: Soluble interleukin-6 receptor subunit alpha, sIL6R ]",IL6R,Homo sapiens (Human),Uniprot
+P09958,reviewed,FURIN_HUMAN,"Furin, EC 3.4.21.75 (Dibasic-processing enzyme) (Paired basic amino acid residue-cleaving enzyme, PACE)",FURIN FUR PACE PCSK3,Homo sapiens (Human),Uniprot
+P20701,reviewed,ITAL_HUMAN,"Integrin alpha-L (CD11 antigen-like family member A) (Leukocyte adhesion glycoprotein LFA-1 alpha chain, LFA-1A) (Leukocyte function-associated molecule 1 alpha chain) (CD antigen CD11a)",ITGAL CD11A,Homo sapiens (Human),Uniprot
+P35232,reviewed,PHB_HUMAN,Prohibitin,PHB PHB1,Homo sapiens (Human),Uniprot
+P35613,reviewed,BASI_HUMAN,"Basigin (5F7) (Collagenase stimulatory factor) (Extracellular matrix metalloproteinase inducer, EMMPRIN) (Hepatoma-associated antigen, HAb18G) (Leukocyte activation antigen M6) (OK blood group antigen) (Tumor cell-derived collagenase stimulatory factor, TCSF) (CD antigen CD147)",BSG UNQ6505/PRO21383,Homo sapiens (Human),Uniprot
+P40189,reviewed,IL6RB_HUMAN,"Interleukin-6 receptor subunit beta, IL-6 receptor subunit beta, IL-6R subunit beta, IL-6R-beta, IL-6RB (CDw130) (Interleukin-6 signal transducer) (Membrane glycoprotein 130, gp130) (Oncostatin-M receptor subunit alpha) (CD antigen CD130)",IL6ST,Homo sapiens (Human),Uniprot
+P52292,reviewed,IMA1_HUMAN,Importin subunit alpha-1 (Karyopherin subunit alpha-2) (RAG cohort protein 1) (SRP1-alpha),KPNA2 RCH1 SRP1,Homo sapiens (Human),Uniprot
+P62937,reviewed,PPIA_HUMAN,"Peptidyl-prolyl cis-trans isomerase A, PPIase A, EC 5.2.1.8 (Cyclophilin A) (Cyclosporin A-binding protein) (Rotamase A) [Cleaved into: Peptidyl-prolyl cis-trans isomerase A, N-terminally processed ]",PPIA CYPA,Homo sapiens (Human),Uniprot
+P84022,reviewed,SMAD3_HUMAN,"Mothers against decapentaplegic homolog 3, MAD homolog 3, Mad3, Mothers against DPP homolog 3, hMAD-3 (JV15-2) (SMAD family member 3, SMAD 3, Smad3, hSMAD3)",SMAD3 MADH3,Homo sapiens (Human),Uniprot
+Q10589,reviewed,BST2_HUMAN,"Bone marrow stromal antigen 2, BST-2 (HM1.24 antigen) (Tetherin) (CD antigen CD317)",BST2,Homo sapiens (Human),Uniprot
+Q14653,reviewed,IRF3_HUMAN,"Interferon regulatory factor 3, IRF-3",IRF3,Homo sapiens (Human),Uniprot
+Q16552,reviewed,IL17_HUMAN,"Interleukin-17A, IL-17, IL-17A (Cytotoxic T-lymphocyte-associated antigen 8, CTLA-8)",IL17A CTLA8 IL17,Homo sapiens (Human),Uniprot
+Q16553,reviewed,LY6E_HUMAN,"Lymphocyte antigen 6E, Ly-6E (Retinoic acid-induced gene E protein, RIG-E) (Stem cell antigen 2, SCA-2) (Thymic shared antigen 1, TSA-1)",LY6E 9804 RIGE SCA2 TSA1,Homo sapiens (Human),Uniprot
+Q16665,reviewed,HIF1A_HUMAN,"Hypoxia-inducible factor 1-alpha, HIF-1-alpha, HIF1-alpha (ARNT-interacting protein) (Basic-helix-loop-helix-PAS protein MOP1) (Class E basic helix-loop-helix protein 78, bHLHe78) (Member of PAS protein 1) (PAS domain-containing protein 8)",HIF1A BHLHE78 MOP1 PASD8,Homo sapiens (Human),Uniprot
+Q8N3R9,reviewed,MPP5_HUMAN,MAGUK p55 subfamily member 5,MPP5 PALS1,Homo sapiens (Human),Uniprot
+Q8NAC3,reviewed,I17RC_HUMAN,"Interleukin-17 receptor C, IL-17 receptor C, IL-17RC (Interleukin-17 receptor homolog, IL17Rhom) (Interleukin-17 receptor-like protein, IL-17RL) (ZcytoR14)",IL17RC UNQ6118/PRO20040/PRO38901,Homo sapiens (Human),Uniprot
+Q8NHX9,reviewed,TPC2_HUMAN,Two pore calcium channel protein 2 (Voltage-dependent calcium channel protein TPC2),TPCN2 TPC2,Homo sapiens (Human),Uniprot
+Q92499,reviewed,DDX1_HUMAN,"ATP-dependent RNA helicase DDX1, EC 3.6.4.13 (DEAD box protein 1) (DEAD box protein retinoblastoma, DBP-RB)",DDX1,Homo sapiens (Human),Uniprot
+Q96F46,reviewed,I17RA_HUMAN,"Interleukin-17 receptor A, IL-17 receptor A, IL-17RA (CDw217) (CD antigen CD217)",IL17RA IL17R,Homo sapiens (Human),Uniprot
+Q96PD4,reviewed,IL17F_HUMAN,"Interleukin-17F, IL-17F (Cytokine ML-1)",IL17F,Homo sapiens (Human),Uniprot
+Q99623,reviewed,PHB2_HUMAN,Prohibitin-2 (B-cell receptor-associated protein BAP37) (D-prohibitin) (Repressor of estrogen receptor activity),PHB2 BAP REA,Homo sapiens (Human),Uniprot
+Q9BYF1,reviewed,ACE2_HUMAN,"Angiotensin-converting enzyme 2, EC 3.4.17.23 (Angiotensin-converting enzyme homolog, ACEH) (Angiotensin-converting enzyme-related carboxypeptidase, ACE-related carboxypeptidase, EC 3.4.17.-) (Metalloprotease MPROT15) [Cleaved into: Processed angiotensin-converting enzyme 2 ]",ACE2 UNQ868/PRO1885,Homo sapiens (Human),Uniprot
+Q9NRS4,reviewed,TMPS4_HUMAN,"Transmembrane protease serine 4, EC 3.4.21.- (Channel-activating protease 2, CAPH2) (Membrane-type serine protease 2, MT-SP2) [Cleaved into: Transmembrane protease serine 4 catalytic chain ]",TMPRSS4 TMPRSS3 UNQ776/PRO1570,Homo sapiens (Human),Uniprot
+Q9Y2I7,reviewed,FYV1_HUMAN,"1-phosphatidylinositol 3-phosphate 5-kinase, Phosphatidylinositol 3-phosphate 5-kinase, EC 2.7.1.150 (FYVE finger-containing phosphoinositide kinase) (PIKfyve) (Phosphatidylinositol 3-phosphate 5-kinase type III, PIPkin-III, Type III PIP kinase) (Serine-protein kinase PIKFYVE, EC 2.7.11.1)",PIKFYVE KIAA0981 PIP5K3,Homo sapiens (Human),Uniprot
+P42224,reviewed,STAT1_HUMAN,Signal transducer and activator of transcription 1-alpha/beta (Transcription factor ISGF-3 components p91/p84),STAT1,Homo sapiens (Human),(Kuleshov et al. 2020)
+P05161,reviewed,ISG15_HUMAN,Ubiquitin-like protein ISG15 (Interferon-induced 15 kDa protein) (Interferon-induced 17 kDa protein) (IP17) (Ubiquitin cross-reactive protein) (hUCRP),ISG15 G1P2 UCRP,Homo sapiens (Human),(Kuleshov et al. 2020)
+P02778,reviewed,CXL10_HUMAN,C-X-C motif chemokine 10 (10 kDa interferon gamma-induced protein) (Gamma-IP10) (IP-10) (Small-inducible cytokine B10) [Cleaved into: CXCL10(1-73)],CXCL10 INP10 SCYB10,Homo sapiens (Human),(Kuleshov et al. 2020)
+Q92985,reviewed,IRF7_HUMAN,Interferon regulatory factor 7 (IRF-7),IRF7,Homo sapiens (Human),(Kuleshov et al. 2020)
+P00973,reviewed,OAS1_HUMAN,2'-5'-oligoadenylate synthase 1 ((2-5')oligo(A) synthase 1) (2-5A synthase 1) (EC 2.7.7.84) (E18/E16) (p46/p42 OAS),OAS1 OIAS,Homo sapiens (Human),(Kuleshov et al. 2020)
+Q9BYX4,reviewed,IFIH1_HUMAN,Interferon-induced helicase C domain-containing protein 1 (EC 3.6.4.13) (Clinically amyopathic dermatomyositis autoantigen 140 kDa) (CADM-140 autoantigen) (Helicase with 2 CARD domains) (Helicard) (Interferon-induced with helicase C domain protein 1) (Melanoma differentiation-associated protein 5) (MDA-5) (Murabutide down-regulated protein) (RIG-I-like receptor 2) (RLR-2) (RNA helicase-DEAD box protein 116),IFIH1 MDA5 RH116,Homo sapiens (Human),(Kuleshov et al. 2020)
+P20591,reviewed,MX1_HUMAN,"Interferon-induced GTP-binding protein Mx1 (Interferon-induced protein p78) (IFI-78K) (Interferon-regulated resistance GTP-binding protein MxA) (Myxoma resistance protein 1) (Myxovirus resistance protein 1) [Cleaved into: Interferon-induced GTP-binding protein Mx1, N-terminally processed]",MX1,Homo sapiens (Human),(Kuleshov et al. 2020)
+Q9UHD2,reviewed,TBK1_HUMAN,Serine/threonine-protein kinase TBK1 (EC 2.7.11.1) (NF-kappa-B-activating kinase) (T2K) (TANK-binding kinase 1),TBK1 NAK,Homo sapiens (Human),(Kuleshov et al. 2020)
+O95786,reviewed,DDX58_HUMAN,Antiviral innate immune response receptor RIG-I (DEAD box protein 58) (Probable ATP-dependent RNA helicase DDX58) (EC 3.6.4.13) (RIG-I-like receptor 1) (RLR-1) (Retinoic acid-inducible gene 1 protein) (RIG-1) (Retinoic acid-inducible gene I protein) (RIG-I),DDX58,Homo sapiens (Human),(Kuleshov et al. 2020)
+O14879,reviewed,IFIT3_HUMAN,Interferon-induced protein with tetratricopeptide repeats 3 (IFIT-3) (CIG49) (ISG-60) (Interferon-induced 60 kDa protein) (IFI-60K) (Interferon-induced protein with tetratricopeptide repeats 4) (IFIT-4) (Retinoic acid-induced gene G protein) (P60) (RIG-G),IFIT3 CIG-49 IFI60 IFIT4 ISG60,Homo sapiens (Human),(Kuleshov et al. 2020)
+Q01628,reviewed,IFM3_HUMAN,Interferon-induced transmembrane protein 3 (Dispanin subfamily A member 2b) (DSPA2b) (Interferon-inducible protein 1-8U),IFITM3,Homo sapiens (Human),(Kuleshov et al. 2020)
+P19525,reviewed,E2AK2_HUMAN,"Interferon-induced, double-stranded RNA-activated protein kinase (EC 2.7.11.1) (Eukaryotic translation initiation factor 2-alpha kinase 2) (eIF-2A protein kinase 2) (Interferon-inducible RNA-dependent protein kinase) (P1/eIF-2A protein kinase) (Protein kinase RNA-activated) (PKR) (Protein kinase R) (Tyrosine-protein kinase EIF2AK2) (EC 2.7.10.2) (p68 kinase)",EIF2AK2 PKR PRKR,Homo sapiens (Human),(Kuleshov et al. 2020)
+P09914,reviewed,IFIT1_HUMAN,Interferon-induced protein with tetratricopeptide repeats 1 (IFIT-1) (Interferon-induced 56 kDa protein) (IFI-56K) (P56),IFIT1 G10P1 IFI56 IFNAI1 ISG56,Homo sapiens (Human),(Kuleshov et al. 2020)
+Q15646,reviewed,OASL_HUMAN,2'-5'-oligoadenylate synthase-like protein (2'-5'-OAS-related protein) (2'-5'-OAS-RP) (59 kDa 2'-5'-oligoadenylate synthase-like protein) (Thyroid receptor-interacting protein 14) (TR-interacting protein 14) (TRIP-14) (p59 OASL) (p59OASL),OASL TRIP14,Homo sapiens (Human),(Kuleshov et al. 2020)
+P01574,reviewed,IFNB_HUMAN,Interferon beta (IFN-beta) (Fibroblast interferon),IFNB1 IFB IFNB,Homo sapiens (Human),(Kuleshov et al. 2020)
+P29728,reviewed,OAS2_HUMAN,2'-5'-oligoadenylate synthase 2 ((2-5')oligo(A) synthase 2) (2-5A synthase 2) (EC 2.7.7.84) (p69 OAS / p71 OAS) (p69OAS / p71OAS),OAS2,Homo sapiens (Human),(Kuleshov et al. 2020)
+Q8TCB0,reviewed,IFI44_HUMAN,Interferon-induced protein 44 (p44) (Microtubule-associated protein 44),IFI44 MTAP44,Homo sapiens (Human),(Kuleshov et al. 2020)
+P09913,reviewed,IFIT2_HUMAN,Interferon-induced protein with tetratricopeptide repeats 2 (IFIT-2) (ISG-54 K) (Interferon-induced 54 kDa protein) (IFI-54K) (P54),IFIT2 CIG-42 G10P2 IFI54 ISG54,Homo sapiens (Human),(Kuleshov et al. 2020)
+Q9UMW8,reviewed,UBP18_HUMAN,Ubl carboxyl-terminal hydrolase 18 (EC 3.4.19.-) (43 kDa ISG15-specific protease) (hUBP43) (ISG15-specific-processing protease) (Ubl thioesterase 18),USP18 ISG43,Homo sapiens (Human),(Kuleshov et al. 2020)
+Q9BZW2,reviewed,S13A1_HUMAN,Solute carrier family 13 member 1,SLC13A1,Homo sapiens (Human),ACE2 (Kuleshov et al. 2020)
+Q9H756,reviewed,LRC19_HUMAN,Leucine-rich repeat-containing prot,LRRC19,,ACE2 (Kuleshov et al. 2020)
+Q96D42,reviewed,HAVR1_HUMAN,Hepatitis A virus cellular receptor,HAVCR1,,ACE2 (Kuleshov et al. 2020)
+Q96D42,reviewed,HHLA2_HUMAN,HERV-H LTR-associating protein 2,HHLA2,,ACE2 (Kuleshov et al. 2020)
+P0C5K7,reviewed,CT62_HUMAN,Cancer/testis antigen 62,CT62,,ACE2 (Kuleshov et al. 2020)
+Q9BYZ2,reviewed,LDH6B_HUMAN,L-lactate dehydrogenase A-like 6B,LDHAL6B,,ACE2 (Kuleshov et al. 2020)
+Q9NSA0,reviewed,S22AB_HUMAN,Solute carrier family 22 member 11,SLC22A11,,ACE2 (Kuleshov et al. 2020)
+Q9NQI0,reviewed,,,DDX4,,ACE2 (Kuleshov et al. 2020)
+P51795,reviewed,,,CLCN5,,ACE2 (Kuleshov et al. 2020)
+Q9H0C2,reviewed,,,SLC25A31,,ACE2 (Kuleshov et al. 2020)
+Q8TF65,reviewed,,,GIPC2,,ACE2 (Kuleshov et al. 2020)
+P25092,reviewed,,,GUCY2C,,ACE2 (Kuleshov et al. 2020)
+P08183,reviewed,,,ABCB1,,ACE2 (Kuleshov et al. 2020)
+P98073,reviewed,,,TMPRSS15,,ACE2 (Kuleshov et al. 2020)
+O75526,reviewed,,,RBMXL2,,ACE2 (Kuleshov et al. 2020)
+Q53R12,reviewed,,,TM4SF20,,ACE2 (Kuleshov et al. 2020)
+Q6B0I6,reviewed,,,KDM4D,,ACE2 (Kuleshov et al. 2020)
+Q6ZQN7,reviewed,,,SLCO4C1,,ACE2 (Kuleshov et al. 2020)
+P04554,reviewed,,,PRM2,,ACE2 (Kuleshov et al. 2020)
+Q9H0A6,reviewed,,,RNF32,,ACE2 (Kuleshov et al. 2020)
+Q9UQ52,reviewed,,,CNTN6,,ACE2 (Kuleshov et al. 2020)
+Q9UKU0,reviewed,,,ACSL6,,ACE2 (Kuleshov et al. 2020)
+Q9H347,reviewed,,,UBQLN3,,ACE2 (Kuleshov et al. 2020)
+Q14541,reviewed,,,HNF4G,,ACE2 (Kuleshov et al. 2020)
+Q92527,reviewed,,,ANKRD7,,ACE2 (Kuleshov et al. 2020)
+Q05195,reviewed,,,MXD1,,ACE2 (Kuleshov et al. 2020)
+O00476,reviewed,,,SLC17A3,,ACE2 (Kuleshov et al. 2020)
+Q99665,reviewed,,,IL12RB2,,ACE2 (Kuleshov et al. 2020)
+Q53H64,reviewed,,,ANKRD40CL,,ACE2 (Kuleshov et al. 2020)
+Q9NP91,reviewed,,,SLC6A20,,ACE2 (Kuleshov et al. 2020)
+Q1EHB4,reviewed,,,SLC5A12,,ACE2 (Kuleshov et al. 2020)
+Q12908,reviewed,,,SLC10A2,,ACE2 (Kuleshov et al. 2020)
+P26436,reviewed,,,ACRV1,,ACE2 (Kuleshov et al. 2020)
+P09923,reviewed,,,ALPI,,ACE2 (Kuleshov et al. 2020)
+O95925,reviewed,,,EPPIN,,ACE2 (Kuleshov et al. 2020)
+Q16552,reviewed,,,IL17A,,ACE2 (Kuleshov et al. 2020)
+Q5JQC9,reviewed,,,AKAP4,,ACE2 (Kuleshov et al. 2020)
+Q2TB90,reviewed,,,HKDC1,,ACE2 (Kuleshov et al. 2020)
+Q58F21,reviewed,,,BRDT,,ACE2 (Kuleshov et al. 2020)
+Q5SRN2,reviewed,,,TSBP1,,ACE2 (Kuleshov et al. 2020)
+O15244,reviewed,,,SLC22A2,,ACE2 (Kuleshov et al. 2020)
+P47900,reviewed,,,P2RY1,,ACE2 (Kuleshov et al. 2020)
+O60548,reviewed,,,FOXD2,,ACE2 (Kuleshov et al. 2020)
+Q9UHF3,reviewed,,,NAT8B,,ACE2 (Kuleshov et al. 2020)
+Q99929,reviewed,,,ASCL2,,ACE2 (Kuleshov et al. 2020)
+P29459,reviewed,,,IL12A,,ACE2 (Kuleshov et al. 2020)
+Q02930,reviewed,,,CREB5,,ACE2 (Kuleshov et al. 2020)
+Q9Y5R6,reviewed,,,DMRT1,,ACE2 (Kuleshov et al. 2020)
+O94880,reviewed,,,PHF14,,ACE2 (Kuleshov et al. 2020)
+P02741,reviewed,,,CRP,,(Kermali et al. 2020)
+P0DJI8,reviewed,SAA1_HUMAN,,SAA1,,(Kermali et al. 2020)
+P0DJI9,reviewed,SAA2_HUMAN,,SAA2,,(Kermali et al. 2020)
+P35542,reviewed,SAA4_HUMAN,,SAA4,,(Kermali et al. 2020)
+P07195,reviewed,LDHB_HUMAN,,LDHB,,(Kermali et al. 2020)
+P00338,reviewed,LDHA_HUMAN,,LDHA,,(Kermali et al. 2020)
+P19429,reviewed,TNNI3_HUMAN,,Cardiac troponin I,,(Kermali et al. 2020)
+O43557,reviewed,TNF14_HUMAN,"Tumor necrosis factor ligand superfamily member 14 (Herpes virus entry mediator ligand) (HVEM-L) (Herpesvirus entry mediator ligand) (CD antigen CD258) [Cleaved into: Tumor necrosis factor ligand superfamily member 14, membrane form; Tumor necrosis factor ligand superfamily member 14, soluble form]",TNFSF14 HVEML LIGHT UNQ391/PRO726,Homo sapiens (Human),(Zhang et al. 2020)
+Q02127,reviewed,,,AKT,,(Coleman et al. 2016)
+P31749,reviewed,,,DHODH,,(Chen et al. 2020)
