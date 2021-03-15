@@ -13,9 +13,9 @@ Feature selection process with XGBoost algorithm reduce the data dimensions. Ran
 ## Source code flow: Scraper Drug at Supertarget and Drug Bank.ipynb -> Merge Drugbank and Supertarget.ipynb -> Generate interaction and Feature Extraction Daming.ipynb -> Modeling Daming.ipynb
 
 ## References
-Chen, X., Yin, Y. H., Zhang, M. Y., Liu, J. Y., Li, R., & Qu, Y. Q. 2020.  Investigating the mechanism of ShuFeng JieDu capsule for the treatment of novel Coronavirus pneumonia (COVID-19) based on network pharmacology. International Journal of Medical Sciences. 17(16): 2511-2530. doi: 10.7150/ijms.46378
-Coleman, C. M., Sisk, J. M., Mingo, R. M., Nelson, E. A., White, J. M., & Frieman, M. B. (2016). Abelson Kinase Inhibitors Are Potent Inhibitors of Severe Acute Respiratory Syndrome Coronavirus and Middle East Respiratory Syndrome Coronavirus Fusion. Journal of virology, 90(19), 8924–8933. doi: 10.1128/JVI.01429-16
-Kermali, M., Khalsa, R. K., Pillai, K., Ismail, Z., & Harky, A. (2020). The role of biomarkers in diagnosis of COVID-19 - A systematic review. Life sciences, 254, 117788. doi:10.1016/j.lfs.2020.117788
-Kuleshov, M. V., Clarke, D., Kropiwnicki, E., Jagodnik, K. M., Bartal, A., Evangelista, J. E., Zhou, A., Ferguson, L. B., Lachmann, A., & Ma'ayan, A. (2020). The COVID-19 Gene and Drug Set Library. Research square, rs.3.rs-28582. doi:10.21203/rs.3.rs-28582/v1
-Zhang, L., & Guo, H. (2020). Biomarkers of COVID-19 and technologies to combat SARS-CoV-2.   Advances in Biomarker Sciences and Technology 2:1-23. doi: 10.1016/j.abst.2020.08.001
+Chen, X., Yin, Y. H., Zhang, M. Y., Liu, J. Y., Li, R., & Qu, Y. Q. 2020.  Investigating the mechanism of ShuFeng JieDu capsule for the treatment of novel Coronavirus pneumonia (COVID-19) based on network pharmacology. International Journal of Medical Sciences. 17(16): 2511-2530. doi: 10.7150/ijms.46378 &nbsp
+Coleman, C. M., Sisk, J. M., Mingo, R. M., Nelson, E. A., White, J. M., & Frieman, M. B. (2016). Abelson Kinase Inhibitors Are Potent Inhibitors of Severe Acute Respiratory Syndrome Coronavirus and Middle East Respiratory Syndrome Coronavirus Fusion. Journal of virology, 90(19), 8924–8933. doi: 10.1128/JVI.01429-16 &nbsp
+Kermali, M., Khalsa, R. K., Pillai, K., Ismail, Z., & Harky, A. (2020). The role of biomarkers in diagnosis of COVID-19 - A systematic review. Life sciences, 254, 117788. doi:10.1016/j.lfs.2020.117788 &nbsp
+Kuleshov, M. V., Clarke, D., Kropiwnicki, E., Jagodnik, K. M., Bartal, A., Evangelista, J. E., Zhou, A., Ferguson, L. B., Lachmann, A., & Ma'ayan, A. (2020). The COVID-19 Gene and Drug Set Library. Research square, rs.3.rs-28582. doi:10.21203/rs.3.rs-28582/v1 &nbsp
+Zhang, L., & Guo, H. (2020). Biomarkers of COVID-19 and technologies to combat SARS-CoV-2.   Advances in Biomarker Sciences and Technology 2:1-23. doi: 10.1016/j.abst.2020.08.001 &nbsp
 
